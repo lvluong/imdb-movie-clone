@@ -16,4 +16,11 @@ The first time you start:
 * in here, type the following: git remote add origin https://github.com/lvluong/imdb-movie-clone.git
   * replace that url with the new thing
 * come back here, and now you can push!!
-* hit "push to" and select the thing you just did
+* hit "push to" and select the repository you just created, and enter your credentials.
+
+The next time:
+
+* You'll see files pop up on the left pane. The ones that you want to send up, hit the "+" button next to them (or you can plus them all via some other button which I think appears, which is common).
+* Type a message explaining what it is.
+* Hit the checkmark.
+* Do the push to thing again.
